@@ -1,0 +1,3 @@
+In python you can write hello world
+In python you can use if else
+In python you can use while
